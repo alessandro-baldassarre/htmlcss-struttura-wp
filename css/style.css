@@ -48,6 +48,7 @@ main{
     height: 350px;
     background-color: #abcfe7;
     float: left;
+    margin-bottom: 10px;
 }
 
 .main-content{
